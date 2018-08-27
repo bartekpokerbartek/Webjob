@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication3", "WebApplication3\WebApplication3.csproj", "{51C90E97-AA90-4EB0-99E1-DAF3B01879BB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreWebJobWebJob", "..\ConsoleApp1\NetCoreWebJobWebJob.csproj", "{26ED73BF-403A-4A79-AE93-0E455CF5DF24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreWebJob.WebJob", "ConsoleApp1\NetCoreWebJob.WebJob.csproj", "{AC394F90-308A-4B47-A375-3954974D2FF4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{51C90E97-AA90-4EB0-99E1-DAF3B01879BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51C90E97-AA90-4EB0-99E1-DAF3B01879BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51C90E97-AA90-4EB0-99E1-DAF3B01879BB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{26ED73BF-403A-4A79-AE93-0E455CF5DF24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{26ED73BF-403A-4A79-AE93-0E455CF5DF24}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{26ED73BF-403A-4A79-AE93-0E455CF5DF24}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{26ED73BF-403A-4A79-AE93-0E455CF5DF24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC394F90-308A-4B47-A375-3954974D2FF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC394F90-308A-4B47-A375-3954974D2FF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC394F90-308A-4B47-A375-3954974D2FF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC394F90-308A-4B47-A375-3954974D2FF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
