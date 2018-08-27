@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication3", "WebApplication3\WebApplication3.csproj", "{51C90E97-AA90-4EB0-99E1-DAF3B01879BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication3", "WebApplication3\WebApplication3.csproj", "{51C90E97-AA90-4EB0-99E1-DAF3B01879BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreWebJob.WebJob", "..\ConsoleApp1\NetCoreWebJob.WebJob.csproj", "{26ED73BF-403A-4A79-AE93-0E455CF5DF24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreWebJobWebJob", "..\ConsoleApp1\NetCoreWebJobWebJob.csproj", "{26ED73BF-403A-4A79-AE93-0E455CF5DF24}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
